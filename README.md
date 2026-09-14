@@ -6,7 +6,7 @@
 
 Now powered by a secure **Node.js + MongoDB backend** and **JWT authentication**, with **React Redux** for efficient state management on the frontend.
 
-🔗 **Live App:** [https://portfolio-app-three-kohl.vercel.app/]([https://portfolio-app-three-kohl.vercel.app/](https://portfolio-app-three-kohl.vercel.app/home/684d15d8c13929c36cb32cb6))
+🔗 **Live App:** [https://portfolio-app-three-kohl.vercel.app/](https://portfolio-app-three-kohl.vercel.app/home/684d15d8c13929c36cb32cb6)
 
 ---
 
